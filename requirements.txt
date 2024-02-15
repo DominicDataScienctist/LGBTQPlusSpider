@@ -1,0 +1,7 @@
+bs4
+pymysql
+pygsheets
+pandas
+python-dateutil
+requests
+PyYAML
